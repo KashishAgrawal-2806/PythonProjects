@@ -1,0 +1,17 @@
+#__BASIC--STEPS--
+
+Import data
+Clean data
+Spilt the data into Training /Testing sets
+Create a model
+Train model
+Make prediction
+Evaluate and improve
+
+
+#LIBRARIES-->
+NUMPY
+PANDAS => DATA ANALYSIS ,PROVIDE DATA FRAME
+MATPLOTLIB => GRAPHS
+SCIKET-LEARN => ALGO
+
